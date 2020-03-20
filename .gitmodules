@@ -1,0 +1,3 @@
+[submodule "mernmanager"]
+	path = mernmanager
+	url = https://www.github.com/tommyn707/mernmanager
